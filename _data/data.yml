@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Priscy Antonio Reales Mozo
+    name: Alan Doe
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: realespriscy@hotmail.com
-    phone: +57 300 377 8733
+    email: hello@webjeda.com
+    phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
@@ -28,7 +28,7 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Español
+      - idiom: English
         level: Native
 
       - idiom: French
