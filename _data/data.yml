@@ -133,7 +133,7 @@ projects:
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-       - title: Microservicios con ASP.NET Core, Docker y RabbitMQ
+      - title: Microservicios con ASP.NET Core, Docker y RabbitMQ
         link: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-9395df35-15e5-4010-baac-06f98f9b00e6.pdf"
         tagline: "Udemy, Noviembre 2021"
 
