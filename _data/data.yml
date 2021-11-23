@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Priscy Antonio Reales Mozo
@@ -27,8 +27,9 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     cv-title : Hoja de vida
     pdf: https://1drv.ms/b/s!AmtlBDwF6PrJkwydxkuVkQ81PfAu?e=1U9SIP
+    experience-title: Experiencia
     education-title: Estudios
-    language-title: Idioma
+    language-title: Idiomas
     languages:
       - idiom: Español
         level: Nativo
@@ -54,6 +55,7 @@ career-profile:
         Profesional con más de 5 años de experiencia en sitios web y desarrollo backend.
         Con conocimiento de lenguajes de programación como PHP, .Net, Xamarin Forms, Angular 11, RESTful API, Windows Forms, Reporting Services.
         Base de datos: PostgreSQL, MySQL, SQL Server.
+
 education:    
     - degree: Ingeniero de Sistemas
       university: Politécnico Costa Atlántica
@@ -64,79 +66,94 @@ education:
     - degree: Técn Profesional en Mantenimiento de Sistemas Informáticos
       university: Instituto Tecnológico de Soledad Atlántico ITSA
       time: 2012 - 2014
+
 experiences:
     - role: Ingeniero de Desarrollo Intermedio
       time: Feb 22, 2021 - Actualidad
-      company: InterGrupo, Medellín
+      company: InterGrupo, Medellín - Colombia
       details: |
         - Trabajo bajo metodología Scrum
         - Desarrollo Backend Api RESTful .Net Core
         - Desarrollo Frontend Web Angular 11
         - Diseño e implementación de base de datos SQL Server
-        - Implementación de Azure Service Bus, Logic App, Key Vault
+        - Azure Service Bus, Logic App, Key Vault
+        - Git Azure 
         
     - role: Ingeniero de Desarrollo
       time: Sep 21, 2020 - Feb 18, 2021
-      company: SuperEfectivo, Barranquilla
+      company: SuperEfectivo, Barranquilla - Colombia
       details: |        
-        - Bullet point
-        - Bullet point
+        - Desarrollo Web full stack basados en .NET, MVC
+        - Base de Datos SQL Server        
+        - Power BI
+        - Implementación de control de código fuente Git Azure
           
     - role: Ingeniero de Desarrollo
       time: Ene 15, 2019 - Sep 18, 2020
-      company: Management Shared Services - MSS Corporations (Grupo EPK), Barranquilla
+      company: MSS Corporations (Grupo EPK), Barranquilla - Colombia
       details: |        
-        - Bullet point
-        - Bullet point
+        - Trabajo bajo metodología Scrum
+        - Desarrollo Backend Api RESTful .Net Core
+        - Desarrollo Frontend Web MVC asp.NET & Blazor
+        - Desarrollo Escritorio Windows Forms (ERP, POS)
+        - Desarrollo Móvil Xamarim Forms 
+        - Reporting Services
+        - Desarrollo de reportes SAP (ABAP)
+        - Base de Datos SQL Server 
+        - Git Azure
           
     - role: Ingeniero de Desarrollo
       time: Sep 10, 2018 - Ene 10, 2019
-      company: GlobalSoft, Barranquilla
+      company: GlobalSoft, Barranquilla - Colombia
       details: |        
-        - Bullet point
-        - Bullet point
+        - Desarrollo Backend Api RESTful .Net
+        - Desarrollo Frontend PHP
+        - Git Azure
           
     - role: Líder de Desarrollo
       time: Mar 05, 2017 - Jul 05, 2018
-      company: Papelería El CID, Barranquilla
+      company: Papelería El CID, Barranquilla - Colombia
       details: |        
-        - Bullet point
-        - Bullet point
+        - Levantamiento de requisito y requerimiento para desarrollo o modificación del ERP y POS
+        - Desarrollos bajo lenguaje PHP (ERP) y JAVA (POS)
+        - Administrar de base de datos (PostgreSql).
+        - Liderar, planificar, controlar y organizar las actividades del equipo de trabajo
           
     - role: Auxiliar de Sistemas
       time: Oct 05, 2015 - Dic 16, 2016
-      company: Papelería El CID, Barranquilla
+      company: Papelería El CID, Barranquilla - Colombia
       details: |        
-        - Bullet point
-        - Bullet point
-          
+        - Desarrollos bajo lenguaje PHP (ERP) y JAVA (POS)
+        - Base de datos (PostgreSql)
           
 projects:
-    title: Proyectos
+    title: Cursos y Certificaciones
     intro: #>
       #You can list your side projects or open source libraries in this
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: CCV Postobon
-        #link: "#hook"
-        tagline: "Web API RESTful .Net Core 5, Angular 11, Azure SQL, Azure Key Vault, Azure DevOps, Azure Service Bus, Azure Logic App" #"A responsive website template designed to help startups promote, market and sell their products."
+       - title: Microservicios con ASP.NET Core, Docker y RabbitMQ
+        link: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-9395df35-15e5-4010-baac-06f98f9b00e6.pdf"
+        tagline: "Udemy, Noviembre 2021"
 
-      - title: SuperEfectivo
-        #link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Microsoft AZ-900
+        link: "https://www.credly.com/badges/b4967734-23a0-48c7-be4b-7fd29b1e1495?source=linked_in_profile"
+        tagline: "Microsoft, Septiembre 2021" #"A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Tempo
+      - title: Scrum Foundations Professional Certificate (SFPC)
         #link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "CertiProf, Junio 2020"
 
-      - title: Atom
-        #link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: SAP ABAP iniciación a la programación
+        link: "https://logaligroup.com/mod/simplecertificate/verify.php?code=5ed3121c-586c-4024-bf4f-3efd6c3dcfbb"
+        tagline: "Logali Group, Mayo 2020"
 
-      - title: Delta
-        #link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: SAP Conceptos e iniciación
+        link: "https://logaligroup.com/mod/simplecertificate/verify.php?code=880525f0-8e4a-11ea-baf4-0f9a7be5b34b"
+        tagline: "Logali Group, Mayo 2020"
+
+     
 
 #publications:
     #title: Publications
