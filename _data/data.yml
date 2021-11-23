@@ -27,7 +27,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     cv-title : Hoja de vida
     pdf: https://1drv.ms/b/s!AmtlBDwF6PrJkwydxkuVkQ81PfAu?e=1U9SIP
-
+    education-title: Estudios
     language-title: Idioma
     languages:
       - idiom: Español
@@ -48,14 +48,13 @@ sidebar:
         link:
 
 career-profile:
-    title: Perfil Profecional
+    title: Perfil Profesional
     summary: |      
         Ingeniero de software con amplia base de conocimientos en recopilación de requisitos y diseño de soluciones.
         Profesional con más de 5 años de experiencia en sitios web y desarrollo backend.
         Con conocimiento de lenguajes de programación como PHP, .Net, Xamarin Forms, Angular 11, RESTful API, Windows Forms, Reporting Services.
         Base de datos: PostgreSQL, MySQL, SQL Server.
-education:
-    title: Estudios
+education:    
     - degree: Ingeniero de Sistemas
       university: Politécnico Costa Atlántica
       time: 2017 - 2019      
