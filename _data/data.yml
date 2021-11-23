@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Priscy Antonio Reales Mozo
-    tagline: Full Stack Developer
+    tagline: .Net Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone: +57 300 377 8733
     website: #do not add http://
     linkedin: priscy-antonio-reales
-    xing: alandoe
+    xing: #alandoe
     github: Preales
     telegram: RealesPriscy # add your nickname without '@' sign
     gitlab:
@@ -25,6 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    cv-title : Hoja de vida
     pdf: https://1drv.ms/b/s!AmtlBDwF6PrJkwydxkuVkQ81PfAu?e=1U9SIP
 
     language-title: Idioma
@@ -34,7 +35,8 @@ sidebar:
 
       - idiom: Ingles
         level: Basico
-
+    
+    interest-title: Hobbies
     interests:
       - item: Voleibol
         link:
@@ -46,145 +48,156 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    title: Perfil Profecional
+    summary: |      
+        Ingeniero de software con amplia base de conocimientos en recopilación de requisitos y diseño de soluciones.
+        Profesional con más de 5 años de experiencia en sitios web y desarrollo backend.
+        Con conocimiento de lenguajes de programación como PHP, .Net, Xamarin Forms, Angular 11, RESTful API, Windows Forms, Reporting Services.
+        Base de datos: PostgreSQL, MySQL, SQL Server.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+    title: Estudios
+    - degree: Ingeniero de Sistemas
+      university: Politécnico Costa Atlántica
+      time: 2017 - 2019      
+    - degree: Tnlgo Profesional en Gestión de Sistemas Informáticos
+      university: Instituto Tecnológico de Soledad Atlántico ITSA
+      time: 2015 - 2016      
+    - degree: Técn Profesional en Mantenimiento de Sistemas Informáticos
+      university: Instituto Tecnológico de Soledad Atlántico ITSA
       time: 2012 - 2014
-      company: Amazon, London
+experiences:
+    - role: Ingeniero de Desarrollo Intermedio
+      time: Feb 22, 2021 - Actualidad
+      company: InterGrupo, Medellín
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Trabajo bajo metodología Scrum
+        - Desarrollo Backend Api RESTful .Net Core
+        - Desarrollo Frontend Web Angular 11
+        - Diseño e implementación de base de datos SQL Server
+        - Implementación de Azure Service Bus, Logic App, Key Vault
+        
+    - role: Ingeniero de Desarrollo
+      time: Sep 21, 2020 - Feb 18, 2021
+      company: SuperEfectivo, Barranquilla
+      details: |        
+        - Bullet point
+        - Bullet point
+          
+    - role: Ingeniero de Desarrollo
+      time: Ene 15, 2019 - Sep 18, 2020
+      company: Management Shared Services - MSS Corporations (Grupo EPK), Barranquilla
+      details: |        
+        - Bullet point
+        - Bullet point
+          
+    - role: Ingeniero de Desarrollo
+      time: Sep 10, 2018 - Ene 10, 2019
+      company: GlobalSoft, Barranquilla
+      details: |        
+        - Bullet point
+        - Bullet point
+          
+    - role: Líder de Desarrollo
+      time: Mar 05, 2017 - Jul 05, 2018
+      company: Papelería El CID, Barranquilla
+      details: |        
+        - Bullet point
+        - Bullet point
+          
+    - role: Auxiliar de Sistemas
+      time: Oct 05, 2015 - Dic 16, 2016
+      company: Papelería El CID, Barranquilla
+      details: |        
+        - Bullet point
+        - Bullet point
+          
+          
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Proyectos
+    intro: #>
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: CCV Postobon
+        #link: "#hook"
+        tagline: "Web API RESTful .Net Core 5, Angular 11, Azure SQL, Azure Key Vault, Azure DevOps, Azure Service Bus, Azure Logic App" #"A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
+      - title: SuperEfectivo
+        #link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
-        link: "#"
+        #link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
-        link: "#"
+        #link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
-        link: "#"
+        #link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+    #title: Publications
+    #intro: |
+      #You can list your publications in this section. Lorem ipsum dolor sit
+      #amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
+    #papers:
+      #- title: The Art of Computer Programming
+        #link: "#"
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+       #link: "#"
+       #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+       #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      #- title: A syntax directed compiler for Algol 60
+        #link: "#"
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills #&amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: SQL Server, PostgreSql & MySql 
         level: 98%
 
+      - name: C# .Net, Windows Forms & Reporting Services
+        level: 80%
+       
+      - name: Xamarin Forms
+        level: 60%
+        
       - name: Javascript & jQuery
-        level: 98%
+        level: 90%
 
       - name: Angular
-        level: 98%
+        level: 60%
 
       - name: HTML5 & CSS
+        level: 98%
+
+      - name: Azure
+        level: 40%
+        
+      - name: PHP
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        
+      - name: Java, SAP ABAP
+        level: 40%
+        
+      - name: Bootstrap & Materialize
+        level: 80%
+        
+        - name: Git
+        level: 80%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
